@@ -1,5 +1,12 @@
 # Simple Travel Flutter App
 
+Preview :
+
+![preview]('./assets/images/preview.png')
+![preview2]('./assets/images/preview2.png')
+
+How to run :
+
 1. Clone
 2. flutter pug get
 
