@@ -2,8 +2,8 @@
 
 Preview :
 
-![preview]('./assets/images/preview.png')
-![preview2]('./assets/images/preview2.png')
+![Preview](assets/images/preview.png)
+![Preview2](assets/images/preview2.png)
 
 How to run :
 
